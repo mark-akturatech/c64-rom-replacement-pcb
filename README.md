@@ -2,7 +2,10 @@
 
 ## Description
 
-Super simple PCB to replace the C64 Kernal (this is how Commodore spell Kernel) ROM with a 27C256 with the original ROM dump and 3 additional alternative ROMs.
+Simple and compact PCB to replace the C64 Kernal (this is how Commodore spell Kernel) ROM with a 27C256 with the original ROM dump and 3 additional alternative ROMs.
+
+![PCB Front](./assets/c64-pcb-front.png)
+![PCB Back](./assets/c64-pcb-back.png)
 
 ## Development
 
