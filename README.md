@@ -67,5 +67,5 @@ Pos | A13 | A14 | Why
 ## Double Pole Switch Wiring
 
 If using two single throw double pole switches, wire as follows:
-- Switch 1: Center pin to address line 13, top pin to GND, bottom pin to +5v.
-- Switch 2: Center pin to address line 14, top pin to GND, bottom pin to +5v.
+- Switch 1: Center pin to address line 13, top pin to GND, bottom pin to +5V.
+- Switch 2: Center pin to address line 14, top pin to GND, bottom pin to +5V.

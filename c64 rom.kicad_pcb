@@ -380,7 +380,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 70b1d360-69e4-4c89-93c3-99763d0fbafa)
     )
-    (fp_text value "VCC" (at 0.039618 1.991157) (layer "F.SilkS")
+    (fp_text value "+5V" (at 0.039618 1.991157) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1ab73316-7a88-4736-8891-d19118b52e4e)
     )
